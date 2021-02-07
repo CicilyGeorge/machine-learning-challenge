@@ -34,18 +34,4 @@ In this homework assignment, you will need to:
 ## Findings and Assumptions
 
 
-
-
-                precision    recall  f1-score   support
-
-     CONFIRMED       0.81      0.79      0.80       327
-
-FALSE POSITIVE       0.85      0.82      0.83       393
-
-     CANDIDATE       0.97      1.00      0.98       679
-
-      accuracy                           0.90      1399
-     macro avg       0.88      0.87      0.87      1399
-     
-  weighted avg       0.90      0.90      0.90      1399
-
+![knnAccuracy.png](Images/knnAccuracy.png)
